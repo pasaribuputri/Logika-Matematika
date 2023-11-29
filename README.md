@@ -1,5 +1,3 @@
-# Logika-Matematika
-
 # Projek Logika Matematika
 
 ## Deskripsi
